@@ -1,0 +1,296 @@
+    2  ls
+    3  l s-1
+    4  ls -1
+    5  clear
+    6  cd ..
+    7  cd ../..
+    8  clear
+    9  ls -1
+   10  man ls
+   11  clera
+   12  clear
+   13  ls -1
+   14  cd mnt
+   15  ls -1
+   16  cd c
+   17  ls -1
+   18  cd Downloads
+   19  ls 01
+   20  ls -1
+   21  cd Users
+   22  ls 01
+   23  ls -1
+   24  cd mmalurea
+   25  ls -1
+   26  cd Downloads
+   27  ls -1
+   28  clera
+   29  clear
+   30  cd clmystery-master
+   31  ls -1
+   32  terminal
+   33  clear
+   34  cat hint1
+   35  ls
+   36  ls - 1
+   37  ls-1
+   38  ls -1
+   39  la -1
+   40  ls -1
+   41  ls -p
+   42  cd
+   43  ls
+   44  ../
+   45  cd ..
+   46  \cd ..
+   47  cd ..
+   48  ls
+   49  clear
+   50  ls -1
+   51  ls -1p
+   52  clear
+   53  ls mystery
+   54  ls -1
+   55  ls -1 home
+   56  cd home
+   57  ls -1
+   58  cd..
+   59  cd..ls -1
+   60  man ls
+   61  cd..//
+   62  cd..
+   63  cd
+   64  ls
+   65  cd ..
+   66  ls
+   67  head people
+   68  ls-1p
+   69  ls -1p
+   70  head people
+   71  headpeople
+   72  grep marius people
+   73  grep
+   74  grep mystery
+   75  cd..
+   76  cd ..
+   77  ls
+   78  ls -1
+   79  ;s -1p
+   80  ls -1p
+   81  cd usr
+   82  ls
+   83  cd home
+   84  cd ..
+   85  ls
+   86  cd home
+   87  ls
+   88  ls -1
+   89  grep home
+   90  cd ..
+   91  ls
+   92  ls -1
+   93  cd home
+   94  ls
+   95  ls home
+   96  cd usr
+   97  cd ..
+   98  cd usr
+   99  ls
+  100  cd root
+  101  cd ..
+  102  roo
+  103  cd root
+  104  ls
+  105  cd ..
+  106  ls root
+  107  ls -1
+  108  cd root
+  109  cd ..
+  110  ls -1
+  111  cd c
+  112  ls
+  113  cd mnt
+  114  ls
+  115  ls -1
+  116  cd
+  117  cd ..
+  118  mnt
+  119  cd mnt
+  120  ls
+  121  ls c d
+  122  cd users
+  123  cd c
+  124  cd users
+  125  cd mmalurea
+  126  cd downloads
+  127  cd mystery-master
+  128  cd clmystery-master
+  129  ls
+  130  ls-1
+  131  ls -1
+  132  cd mystery
+  133  ls
+  134  cd people
+  135  grep people
+  136  d ..
+  137  cd ..
+  138  ls
+  139  cd mnt
+  140  ls
+  141  cd c
+  142  ls
+  143  cd users
+  144  ls
+  145  cd mmslurea
+  146  cd mmalurea
+  147  ls
+  148  cd downloads
+  149  ls
+  150  cd clmystery-master
+  151  ls
+  152  ls -1
+  153  cd mystery
+  154  ls
+  155  cd streets
+  156  ls
+  157  cd mystery
+  158  cd..
+  159  cd ..
+  160  pwd
+  161  ls people
+  162  cd people
+  163  grep people
+  164  head people
+  165  c
+  166  head vehicles
+  167  cd ..
+  168  ls
+  169  cd mnt
+  170  ls
+  171  cd c
+  172  cd users
+  173  cd mmalurea
+  174  cd downloads
+  175  cd clmystery-master
+  176  ls
+  177  ls -1
+  178  grep "CLUES" crimescene
+  179  cd mystery
+  180  grep "CLUES" crimescene
+  181  grep "CLUE" crimescene
+  182  grep "Annabel" people
+  183  cd streets
+  184  grep "Hart Place"
+  185  head
+  186  head streets
+  187  cd ..
+  188  head streets
+  189  head -n 20 people
+  190  head -n 20 streets
+  191  streets
+  192  cd streets
+  193  head streets
+  194  head -n 20 streets
+  195  grep line 433
+  196  head -n 173 Mattapan_Street| tail -n1
+  197  cd ..
+  198  cd interviews
+  199  grep "#9437737"
+  200  grep "interview-9437737"
+  201  cat interview-9437737
+  202  cd ..
+  203  cd streets
+  204  head -n 40 Hart Place| tail -n1
+  205  head -n 40 Hart_place|tail -n1
+  206  cd ..
+  207  cd interviews
+  208  grep "interview-47246024"
+  209  cat interview-47246024
+  210  cd ..
+  211  cd streets
+  212  head -n 179 Buckingham_Place| tale -n1
+  213  head -n 179 Buckingham_Place| tail -n1
+  214  cd ..
+  215  cd interviews
+  216  cat interview-699607
+  217  cd ..
+  218  head vehicles|grep "Honda"
+  219  head vehicles | grep "Honda"
+  220  head vehicles
+  221  grep "Honda" vehicles
+  222  head vehicles
+  223  head vehicled | grep "Honda"
+  224  head vehicles | grep "Honda"
+  225  head vehicles | grep "Honda" vehicles
+  226  head vehicles | grep "Honda" vehicles | grep "blue"
+  227  head -n
+  228  head -n vehicles| grep "Honda grep "blue"
+  229  head -n vehicles
+  230  head vehicles
+  231  head vehicles | grep "Honda" | grep "blue"
+  232  head vehicles
+  233  head -n vehicles/Make: Honda
+  234  head -n vehicles/Make:Honda
+  235  grep "Make: Honda" vehicles
+  236  grep "Make: Honda" vehicles | grep "Color: Blue" vehicles
+  237  grep -A 5 "L337" mystery/vehicles
+  238  grep -A 5 "L337" vehicles
+  239  grep -A 5 "L337" vehicles|grep "Make: Honda" vehicles | grep "Color: Blue" vehicles
+  240  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germushka" | wc -1
+  241  cat AAA Delta_SkyMiles Terminal_city_Library Museum_of_Bash_History | grep "Joe Gremuska" | wc-1
+  242  wc -1
+  243  cd memberships
+  244  cat AAA Delta_SkyMiles terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska" | wc -1
+  245  AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  246  AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  247  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  248  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  249  cd ..
+  250  ls
+  251  cd mnt
+  252  cd c
+  253  cd users
+  254  cd mmalurea
+  255  cd downloads
+  256  cd clmystery-master
+  257  ls
+  258  ls -1
+  259  grep"CLUE" crimescene
+  260  grep "CLUE" crimescene
+  261  cd mystery
+  262  grep "CLUE" crimescene
+  263  head people
+  264  head vehicles
+  265  grep "Annabel" people
+  266  head -n 40 streets/Hart_Place | tail -n 1
+  267  cd interviews
+  268  cat interview-47246024
+  269  cd..
+  270  cd ..
+  271  head -n 173 streets/ Mattapan_Street | tail -n 1
+  272  head -n 170 streets/Mattapan_Street | tail -n 1
+  273  head -n 173 streets/Mattapan_Street | tail -n 1
+  274  cd ..
+  275  cd interviews
+  276  cd mistery
+  277  cd mystery
+  278  cd interviews
+  279  cat interview-9437737
+  280  cd ..
+  281  head -n 179 streets/Buckingham_Place | tail -n 1
+  282  cd ..
+  283  cd mystery
+  284  cd interviews
+  285  cat interview-699607
+  286  cd ..
+  287  head -n 20 vehicles
+  288  grep "Make: Honda" vehicles | grep "Color: Blue" vehicles
+  289  grep -A 5 "L337" mystery/vehicles
+  290  grep -A 5 "L337" vehicles
+  291  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -c "Joe Germuska"
+  292  cd memberships
+  293  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe Germuska"
+  294  cat AAA delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers"
+  295  echo Jeremy Bowers
+  296  history > my_history.log
+  297  history
